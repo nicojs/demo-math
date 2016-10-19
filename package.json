@@ -6,7 +6,7 @@
   "dependencies": {},
   "devDependencies": {},
   "scripts": {
-    "test": "npm test"
+    "test": "cucumberjs"
   },
   "repository": {
     "type": "git",
