@@ -1,0 +1,25 @@
+{
+  "name": "demo-math",
+  "version": "0.0.0",
+  "description": "A demo module with some basic math functionality",
+  "main": "src/math.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nicojs/demo-math.git"
+  },
+  "keywords": [
+    "demo",
+    "math"
+  ],
+  "author": "nicojs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicojs/demo-math/issues"
+  },
+  "homepage": "https://github.com/nicojs/demo-math#readme"
+}
